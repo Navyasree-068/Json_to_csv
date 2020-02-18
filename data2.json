@@ -1,0 +1,38 @@
+[ 
+    { 
+       "fullname":{ 
+          "firstname":"dinesh",
+          "lastname":"kumar"
+       },
+       "job":"engineer",
+       "gender":"male",
+       "address":{ 
+          "town":"London",
+          "postcode":"DA1 5WX"
+       }
+    },
+    { 
+       "fullname":{ 
+          "firstname":"navya",
+          "lastname":"sree"
+       },
+       "job":"housewife",
+       "gender":"female",
+       "address":{ 
+          "town":"London",
+          "postcode":"DA1 5WX"
+       }
+    },
+    { 
+       "fullname":{ 
+          "firstname":"ishan",
+          "lastname":"dandu"
+       },
+       "job":"baby",
+       "gender":"male",
+       "address":{ 
+          "town":"Manchester",
+          "postcode":"M12 5SW"
+       }
+    }
+ ]
